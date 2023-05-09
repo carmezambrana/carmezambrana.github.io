@@ -28,6 +28,11 @@ Professional experience
 * Internship in eHealth departament, Eurecat Centre Tecnològic, Oct 2015 -- Feb 2016
 * Internship in eHealth departament,Barcelona Digital Centre Tecnològic, Mar 2015 -- Sep 2015
 
+Grants & Awards
+======
 
+* PhD funded by Prof. Przulj's ERC Consolidator Grant, ICONBI, Barcelona Supercomputer Center, Oct 2019 -- Oct 2023
+* Internship funded by Fundació Bosch i Gimpera Grant, eHealth department, Eurecat Centre Tecnològic, Sep 2015 – Feb 2016
+* Internship funded by Fundació Bosch i Gimpera Grant, eHealth department, EBarcelona Digital Centre Tecnològic, Mar 2015 – Sep 2015
 
 
