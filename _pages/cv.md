@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Artificial Intelligence, Universitat Politècnica de Catalunya, Oct 2019 -- Oct 2023 (expected). Supervisor: Prof. Natasa Pržulj
+* M.S. in Fundamental Principles of Data Science, Universitat de Barcelona, 2016 -- 2018 (part-time) #9.3 First Class Honors
+* B.S. in Computer Science, Universitat de Barcelona, 2010 -- 2016 #8.5
+* B.S. in Mathematics, Universitat de Barcelona, 2010 -- 2016 #7.9
+
+
 
 Work experience
 ======
