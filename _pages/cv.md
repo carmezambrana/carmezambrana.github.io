@@ -13,7 +13,7 @@ Education
 ======
 
 * Ph.D in Artificial Intelligence, Universitat Politècnica de Catalunya, Oct 2019 -- Oct 2023 (expected). 
-  Supervisor: Prof. Natasa Pržulj
+  * Supervisor: Prof. Natasa Pržulj
 * M.S. in Fundamental Principles of Data Science, Universitat de Barcelona, 2016 -- 2018 (part-time) 
 * B.S. in Computer Science, Universitat de Barcelona, 2010 -- 2016 
 * B.S. in Mathematics, Universitat de Barcelona, 2010 -- 2016 
