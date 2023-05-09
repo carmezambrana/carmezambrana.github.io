@@ -2,7 +2,7 @@
 title: "Integrated Data Analysis Uncovers New COVID-19 Related Genes and Potential Drug Re-Purposing Candidates"
 collection: publications
 permalink: /publication/2023-iCellCOVID
-excerpt: 'In this work we uncover new COVID-19-related genes and portenital drug re-purposing candidates using integrated data analysis'
+excerpt: 'In this work we uncover new COVID-19-related genes and portenital drug re-purposing candidates using integrated data analysis.'
 date: 2023-01-11
 venue: 'International Journal of Molecular Sciences'
 paperurl: 'https://doi.org/10.3390/ijms24021431'
