@@ -11,12 +11,6 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 {% include base_path %}
 
-{% for post in site.publication reversed %}
-  {% include archive-single-cv.html %} 
-{% endfor %}
-
-
-
 Refereed Journal Publications
 ===
 
