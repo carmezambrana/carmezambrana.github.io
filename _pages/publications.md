@@ -5,16 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.es/citations?user=9d5iV8oAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+You can also find my articles on <u><a href="{{https://scholar.google.es/citations?user=9d5iV8oAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
+
 
 {% include base_path %}
 
 Refereed Journal Publications
 ===
 
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
 {% include archive-single-cv.html %} 
 {% endfor %}
 
