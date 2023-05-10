@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my articles on <u><a href="{{https://scholar.google.es/citations?user=9d5iV8oAAAAJ&hl=en&oi=ao}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.es/citations?user=9d5iV8oAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 
 {% include base_path %}
