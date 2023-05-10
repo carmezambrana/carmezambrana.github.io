@@ -30,7 +30,7 @@ Refereed Journal Publications
 Refereed Conference Papers
 ===
 {% for post in site.publications reversed %}
-{% if post.collection contains "procedding" %}
+{% if post.collection contains "proceeding" %}
 {% include archive-single-cv.html %} 
 {% endif %}
 {% endfor %}
