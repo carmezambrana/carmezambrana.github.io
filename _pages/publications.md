@@ -13,9 +13,11 @@ author_profile: true
 
 Refereed Journal Publications
 ===
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+
+{% for post in site.publications %}
+{% include archive-single-cv.html %} 
 {% endfor %}
+
 
 Refereed Conference Papers
 ===
