@@ -1,7 +1,7 @@
 ---
 title: "Integrated Data Analysis Uncovers New COVID-19 Related Genes and Potential Drug Re-Purposing Candidates"
-collection: publications
-permalink: /publication/2023-01-11-Integrated-Data-Analysis-Uncovers-New-COVID-19-Related-Genes-and-Potential-Drug-Re-Purposing-Candidates
+collection: journal
+permalink: /journal/2023-01-11-Integrated-Data-Analysis-Uncovers-New-COVID-19-Related-Genes-and-Potential-Drug-Re-Purposing-Candidates
 date: 2023-01-11
 venue: 'International Journal of Molecular Sciences'
 paperurl: 'http://dx.doi.org/10.3390/ijms24021431'

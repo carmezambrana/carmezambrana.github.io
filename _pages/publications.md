@@ -21,12 +21,21 @@ Refereed Journal Publications
 ===
 
 {% for post in site.journal reversed %}
+<<<<<<< Updated upstream
   {% include archive-single-cv.html %} 
+=======
+{% include archive-single-cv.html %} 
+>>>>>>> Stashed changes
 {% endfor %}
 
 
 Refereed Conference Papers
 ===
 {% for post in site.proceeding reversed %}
+<<<<<<< Updated upstream
   {% include archive-single-cv.html %} 
 {% endfor %}
+=======
+{% include archive-single-cv.html %} 
+{% endfor %}
+>>>>>>> Stashed changes
