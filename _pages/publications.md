@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /journal/
+permalink: /publications/
 author_profile: true
 ---
 
@@ -15,12 +15,12 @@ Refereed Journal Publications
 ===
 
 {% for post in site.journal reversed %}
-{% include archive-single-cv.html %} 
+  {% include archive-single-cv.html %} 
 {% endfor %}
 
 
 Refereed Conference Papers
 ===
 {% for post in site.proceeding reversed %}
-{% include archive-single-cv.html %} 
+  {% include archive-single-cv.html %} 
 {% endfor %}
