@@ -20,14 +20,16 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 Refereed Journal Publications
 ===
 
-{% for post in site.journal reversed %}
-{% include archive-single-cv.html %} 
+{% for post in site.publications reversed %}
+{% if post.collection contains "journal" %}
+  {% include archive-single-cv.html %} 
+{% endif %}
 {% endfor %}
 
 
 Refereed Conference Papers
 ===
-{% for post in site.proceeding reversed %}
+{% for post in site.publications reversed %}
 {% include archive-single-cv.html %} 
 {% endfor %}
 
