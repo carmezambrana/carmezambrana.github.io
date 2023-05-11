@@ -20,7 +20,7 @@ Refereed Journal Publications
 ===
 
 {% for post in site.publications reversed %}
-{% if post.collection contains "journal" %}
+{% if post.collection == "journal" %}
   {% include archive-single-cv.html %} 
 {% endif %}
 {% endfor %}
@@ -29,7 +29,7 @@ Refereed Journal Publications
 Refereed Conference Papers
 ===
 {% for post in site.publications reversed %}
-{% if post.collection contains "proceeding" %}
+{% if post.collection == "proceeding" %}
 {% include archive-single-cv.html %} 
 {% endif %}
 {% endfor %}
