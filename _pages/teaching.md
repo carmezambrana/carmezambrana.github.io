@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
 
 Universitat de Barcelona
 ====
