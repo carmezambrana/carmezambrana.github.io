@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="{{site.author.googlescholar}}">my G
 
 
 
-Refereed Journal Publications
+Refereed Journal Publications 
 ===
 
 {% for post in site.publications reversed %}
