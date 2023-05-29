@@ -11,7 +11,22 @@ You can also find my articles on <u><a href="{{site.author.googlescholar}}">my G
 {% include base_path %}
 
 
+Refereed Journal Publications
+===
 
 {% for post in site.publications reversed %}
-{% include archive-single-cv.html %} 
+  {% if post.pubtype == 'journal' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
+
+
+Refereed Conference Papers
+===
+
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'booktitle' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
