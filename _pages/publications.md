@@ -16,7 +16,7 @@ Refereed Journal Publications
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
-      {% include archive-single.html %}
+      {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}
 
@@ -26,7 +26,7 @@ Refereed Conference Papers
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'booktitle' %}
-      {% include archive-single.html %}
+      {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}
 
