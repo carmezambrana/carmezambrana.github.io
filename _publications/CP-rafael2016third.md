@@ -1,7 +1,8 @@
 ---
 title: "Third Generation Teleassistance: Intelligent Monitoring Makes the Difference"
 collection: publication
-permalink: /publication/2016-08-30-Third-Generation-Teleassistance-Intelligent-Monitoring-Makes-the-Difference
+pubtype: booktitle
+permalink: /publication/CP-rafael2016third
 date: 2016-08-30
 venue: 'In the proceedings of 2nd Workshop on Artificial Intelligence and Internet of Things (AI-IoT)'
 citation: ' Xavier Rafael-Palou,  Carme Zambrana,  Stefan Dauwalder,  Enrique Vega,  Eloisa Vargiu,  Felip Miralles, &quot;Third Generation Teleassistance: Intelligent Monitoring Makes the Difference.&quot; In the proceedings of 2nd Workshop on Artificial Intelligence and Internet of Things (AI-IoT), 2016.'
