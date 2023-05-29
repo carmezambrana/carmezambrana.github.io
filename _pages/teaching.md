@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Universitat de Barcelona
-====
+## Universitat de Barcelona
+
 Adjunct Lecturer, Department of Mathematics and Computer Science.
 
 ### Undergraduate Courses 
