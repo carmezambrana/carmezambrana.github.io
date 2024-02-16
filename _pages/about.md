@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website.  I am a PhD student in Artificial Intelligence at the Integrative Computational Network Biology (ICONBI) group of the Life Sciences department at Barcelona Supercomputer Center (BSC).
+Welcome to my academic website.  I am a Postdoctoral Researcher at the Integrative Computational Network Biology (ICONBI) group of the Life Sciences department at Barcelona Supercomputer Center (BSC).
 
 Research Interests
 ======
