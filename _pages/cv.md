@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Artificial Intelligence, Universitat Politècnica de Catalunya, Oct 2019 -- Oct 2023 (expected). 
+* Ph.D in Artificial Intelligence, Universitat Politècnica de Catalunya, Oct 2019 -- Nov 2023. 
   * Supervisor: Prof. Natasa Pržulj
 * M.S. in Fundamental Principles of Data Science, Universitat de Barcelona, 2016 -- 2018 (part-time) 
 * B.S. in Computer Science, Universitat de Barcelona, 2010 -- 2016 
@@ -23,7 +23,8 @@ Education
 Professional experience
 ======
 
-* Ph.D. Student, ICONBI, Barcelona Supercomputer Center, Sep 2019 -- Present
+* Postdoctoral Researcher, ICONBI, Barcelona Supercomputer Center, Dec 2023 -- Present
+* Ph.D. Student, ICONBI, Barcelona Supercomputer Center, Sep 2019 -- Nov 2023
 * Junior Researcher - Data Scientist, eHealth department, Eurecat Centre Tecnològic, Mar 2016 -- 2019 (full-time)
 * Internship in eHealth departament, Eurecat Centre Tecnològic, Oct 2015 -- Feb 2016
 * Internship in eHealth departament,Barcelona Digital Centre Tecnològic, Mar 2015 -- Sep 2015
@@ -31,7 +32,7 @@ Professional experience
 Grants & Awards
 ======
 
-* PhD funded by Prof. Przulj's ERC Consolidator Grant, ICONBI, Barcelona Supercomputer Center, Oct 2019 -- Oct 2023
+* PhD funded by Prof. Przulj's ERC Consolidator Grant, ICONBI, Barcelona Supercomputer Center, Oct 2019 -- Nov 2023
 * Internship funded by Fundació Bosch i Gimpera Grant, eHealth department, Eurecat Centre Tecnològic, Sep 2015 – Feb 2016
 * Internship funded by Fundació Bosch i Gimpera Grant, eHealth department, EBarcelona Digital Centre Tecnològic, Mar 2015 – Sep 2015
 
