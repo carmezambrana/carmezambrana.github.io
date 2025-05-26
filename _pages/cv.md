@@ -23,9 +23,9 @@ Education
 Professional experience
 ======
 
-* Postdoctoral Researcher, ML4BR, Barcelona Supercomputer Center, May 2025 -- Present
-* Postdoctoral Researcher, ICONBI, Barcelona Supercomputer Center, Dec 2023 -- April 2024
-* Ph.D. Student, ICONBI, Barcelona Supercomputer Center, Sep 2019 -- Nov 2023
+* Postdoctoral Researcher, ML4BR, Barcelona Supercomputing Center, May 2025 -- Present
+* Postdoctoral Researcher, ICONBI, Barcelona Supercomputing Center, Dec 2023 -- April 2024
+* Ph.D. Student, ICONBI, Barcelona Supercomputing Center, Sep 2019 -- Nov 2023
 * Junior Researcher - Data Scientist, eHealth department, Eurecat Centre Tecnològic, Mar 2016 -- 2019 (full-time)
 * Internship in eHealth departament, Eurecat Centre Tecnològic, Oct 2015 -- Feb 2016
 * Internship in eHealth departament,Barcelona Digital Centre Tecnològic, Mar 2015 -- Sep 2015
@@ -33,14 +33,14 @@ Professional experience
 Grants & Awards
 ======
 
-* PhD funded by Prof. Przulj's ERC Consolidator Grant, ICONBI, Barcelona Supercomputer Center, Oct 2019 -- Nov 2023
+* PhD funded by Prof. Przulj's ERC Consolidator Grant, ICONBI, Barcelona Supercomputing Center, Oct 2019 -- Nov 2023
 * Internship funded by Fundació Bosch i Gimpera Grant, eHealth department, Eurecat Centre Tecnològic, Sep 2015 – Feb 2016
 * Internship funded by Fundació Bosch i Gimpera Grant, eHealth department, EBarcelona Digital Centre Tecnològic, Mar 2015 – Sep 2015
 
 Research projects worked on
 ======
 
-* Integrated Connectedness for a New Representation of Biology, ICONBI, Barcelona Supercomputer Center, 2018 – 2025
+* Integrated Connectedness for a New Representation of Biology, ICONBI, Barcelona Supercomputing Center, 2018 – 2025
   * Funded by: European Research Council
   * Project ID: 770827
   * Budget: 2,000,000€
