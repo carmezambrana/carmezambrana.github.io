@@ -24,7 +24,7 @@ Professional experience
 ======
 
 * Postdoctoral Researcher, ML4BR, Barcelona Supercomputing Center, May 2025 -- Present
-* Postdoctoral Researcher, ICONBI, Barcelona Supercomputing Center, Dec 2023 -- April 2024
+* Postdoctoral Researcher, ICONBI, Barcelona Supercomputing Center, Dec 2023 -- April 2025
 * Ph.D. Student, ICONBI, Barcelona Supercomputing Center, Sep 2019 -- Nov 2023
 * Junior Researcher - Data Scientist, eHealth department, Eurecat Centre Tecnològic, Mar 2016 -- 2019 (full-time)
 * Internship in eHealth departament, Eurecat Centre Tecnològic, Oct 2015 -- Feb 2016
