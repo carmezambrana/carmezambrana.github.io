@@ -28,7 +28,7 @@ Professional experience
 * Ph.D. Student, ICONBI, Barcelona Supercomputing Center, Sep 2019 -- Nov 2023
 * Junior Researcher - Data Scientist, eHealth department, Eurecat Centre Tecnològic, Mar 2016 -- 2019 (full-time)
 * Internship in eHealth departament, Eurecat Centre Tecnològic, Oct 2015 -- Feb 2016
-* Internship in eHealth departament,Barcelona Digital Centre Tecnològic, Mar 2015 -- Sep 2015
+* Internship in eHealth departament, Barcelona Digital Centre Tecnològic, Mar 2015 -- Sep 2015
 
 Grants & Awards
 ======
